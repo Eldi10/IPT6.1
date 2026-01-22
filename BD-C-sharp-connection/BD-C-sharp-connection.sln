@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BD-C-sharp-connection", "BD-C-sharp-connection\BD-C-sharp-connection.csproj", "{35356CE9-6C94-4516-B7D0-D508BA09C2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35356CE9-6C94-4516-B7D0-D508BA09C2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35356CE9-6C94-4516-B7D0-D508BA09C2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35356CE9-6C94-4516-B7D0-D508BA09C2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35356CE9-6C94-4516-B7D0-D508BA09C2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C22248-549B-49C6-8662-35EE8EBC80DE}
+	EndGlobalSection
+EndGlobal
